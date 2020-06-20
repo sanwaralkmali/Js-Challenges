@@ -13,4 +13,4 @@ var isValid = function(s) {
     return false;
 }
 
-console.log(isValid("()({}[]([)"));
+console.log(isValid("()({}[])([])"));
