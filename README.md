@@ -8,17 +8,11 @@ I am using `javascript` to solve these challenges
 * [Js Challenges](#js-challenges)
       * [Content](#content)
 * [Challenges](#challenges)
-
         * [1- Length of Last Word](#1--length-of-last-word)
-
         * [2- Maximum Subarray](#2--maximum-subarray)
-
         * [3- Remove Duplicates from Sorted Array](#3--remove-duplicates-from-sorted-array)
-
         * [4-  Remove Element](#4---remove-element)
-
         * [5- Search Insert Position](#5--search-insert-position)
-
         * [6- Valid Parentheses](#6--valid-parentheses)
 
 
